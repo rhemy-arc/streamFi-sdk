@@ -1,4 +1,7 @@
 node_modules/
 *.tsbuildinfo
+temp_auto_push.bat
 .DS_Store
 dist/
+.gitignore
+branch_structure.json
